@@ -1,0 +1,21 @@
+2025-08-21 18:17:35,343 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-08-21 18:17:35,404 INFO o.a.j.JMeter: Loading user properties from: C:\ISOMOD_PROJECT\Load_Testing_Tool\apache-jmeter-5.6.3\bin\user.properties
+2025-08-21 18:17:35,451 INFO o.a.j.JMeter: Loading system properties from: C:\ISOMOD_PROJECT\Load_Testing_Tool\apache-jmeter-5.6.3\bin\system.properties
+2025-08-21 18:17:35,489 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-08-21 18:17:35,511 INFO o.a.j.JMeter: Version 5.6.3
+2025-08-21 18:17:35,534 INFO o.a.j.JMeter: java.version=1.8.0_452
+2025-08-21 18:17:35,564 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2025-08-21 18:17:35,587 INFO o.a.j.JMeter: os.name=Windows 11
+2025-08-21 18:17:35,610 INFO o.a.j.JMeter: os.arch=amd64
+2025-08-21 18:17:35,631 INFO o.a.j.JMeter: os.version=10.0
+2025-08-21 18:17:35,655 INFO o.a.j.JMeter: file.encoding=Cp1252
+2025-08-21 18:17:35,678 INFO o.a.j.JMeter: java.awt.headless=null
+2025-08-21 18:17:35,702 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-08-21 18:17:35,724 INFO o.a.j.JMeter: Available Processors =4
+2025-08-21 18:17:35,751 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-08-21 18:17:35,774 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-08-21 18:17:35,797 INFO o.a.j.JMeter: JMeterHome=C:\ISOMOD_PROJECT\Load_Testing_Tool\apache-jmeter-5.6.3
+2025-08-21 18:17:35,820 INFO o.a.j.JMeter: user.dir  =Z:\Load_Testing\Projects\134_Isomod\PT_Scripts\E2E_Intergration
+2025-08-21 18:17:35,890 INFO o.a.j.JMeter: PWD       =Z:\Load_Testing\Projects\134_Isomod\PT_Scripts\E2E_Intergration
+2025-08-21 18:17:35,916 INFO o.a.j.JMeter: IP: 10.65.4.243 Name: CPC-srika-Z2M8R FullName: CPC-srika-Z2M8R.cardinalhealth.net
+2025-08-21 18:17:35,983 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
